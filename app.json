@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "inetapp",
+    "slug": "inetapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "inetapp"
+}
